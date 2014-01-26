@@ -9,4 +9,13 @@
   <data-source source="LOCAL" name="Rails untitled: production" uuid="31ff04aa-8c34-447c-91db-e3027ca89ddf">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
+  <data-source source="LOCAL" name="Rails rails4: development" uuid="5dbd52b2-33e1-4626-80f1-589b82a1a2fa">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails rails4: test" uuid="290965bd-508d-461e-96ff-95bd5a430581">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails rails4: production" uuid="6e3af695-f5e0-43e0-b7b8-632d2dddeed0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
 </component>

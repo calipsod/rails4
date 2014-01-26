@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="3023042240">
+  <component name="DataSourceManagerImpl" format="xml" hash="3860940813">
     <data-source source="LOCAL" name="Rails untitled: development" uuid="50358af8-7b10-4165-86d4-9891972023c2">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -16,6 +16,27 @@
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails untitled: production" uuid="31ff04aa-8c34-447c-91db-e3027ca89ddf">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:railsapp_development</jdbc-url>
+      <user-name>calipsod</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails rails4: development" uuid="5dbd52b2-33e1-4626-80f1-589b82a1a2fa">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:railsapp_development</jdbc-url>
+      <user-name>calipsod</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails rails4: test" uuid="290965bd-508d-461e-96ff-95bd5a430581">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:railsapp_test</jdbc-url>
+      <user-name>calipsod</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails rails4: production" uuid="6e3af695-f5e0-43e0-b7b8-632d2dddeed0">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:railsapp_development</jdbc-url>
