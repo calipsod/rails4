@@ -1,6 +1,8 @@
 require 'spec_helper'
 
 describe "Users" do
+  let(:base_title) { "Rails 4" }
+
   describe "GET /users" do
 
     it "users works!" do
@@ -16,7 +18,7 @@ describe "Users" do
 
   it "should have the right title" do
     visit users_path
-    expect(page).to have_title("Rails 4")
+    expect(page).to have_title("#{base_title}")
   end
 
 end
